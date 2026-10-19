@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/inscricao",
+      "destination": "https://form.jotform.com/filipycr20/inscricao_congresso_capelania",
+      "permanent": false
+    }
+  ]
+}
